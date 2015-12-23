@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/armandoumerez/Documents/Principiante/Github/aws-sdk-android-samples/S3TransferUtilitySample2/app/libs/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Users/armandoumerez/Documents/Principiante/Github/aws-sdk-android-samples/S3TransferUtilitySample2/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-6393f080a32554211d56b18321bebde1984c224d.jar" />
+    </item>
+    <item
+        jar="/Users/armandoumerez/Documents/Principiante/Github/aws-sdk-android-samples/S3TransferUtilitySample2/app/libs/Parse-1.10.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a859414011ce2c18187acc83319688e6bd340635">
+        <dex dex="/Users/armandoumerez/Documents/Principiante/Github/aws-sdk-android-samples/S3TransferUtilitySample2/app/build/intermediates/pre-dexed/debug/Parse-1.10.2-1a4b282916ea885b327bc46624a37b249aaf7975.jar" />
+    </item>
+    <item
+        jar="/Users/armandoumerez/Documents/Principiante/Github/aws-sdk-android-samples/S3TransferUtilitySample2/app/libs/bolts-android-1.2.1-javadoc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fce248b761d538323d85bbe6f0a1bde1b1a09227">
+        <dex dex="/Users/armandoumerez/Documents/Principiante/Github/aws-sdk-android-samples/S3TransferUtilitySample2/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-javadoc-7b097e4be00ea3695348f626204ba496020d8ff6.jar" />
+    </item>
+
+</items>
